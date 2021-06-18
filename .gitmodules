@@ -4,6 +4,6 @@
 [submodule "hooks-tutorial"]
 	path = hooks-tutorial
 	url = git@github.com:chohyojae/hooks-tutorial.git
-[submodule "styling-tutorial"]
-	path = styling-tutorial
-	url = git@github.com:chohyojae/styling-tutorial.git
+[submodule "styling-react"]
+	path = styling-react
+	url = git@github.com:chohyojae/styling-react.git
