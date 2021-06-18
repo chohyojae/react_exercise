@@ -1,3 +1,6 @@
 [submodule "hello-react"]
 	path = hello-react
 	url = git@github.com:chohyojae/hello-react.git
+[submodule "hooks-tutorial"]
+	path = hooks-tutorial
+	url = git@github.com:chohyojae/hooks-tutorial.git
