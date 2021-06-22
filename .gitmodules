@@ -13,3 +13,6 @@
 [submodule "immer-tutorial"]
 	path = immer-tutorial
 	url = git@github.com:chohyojae/immer-tutorial.git
+[submodule "router-tutorial"]
+	path = router-tutorial
+	url = git@github.com:chohyojae/router-tutorial.git
