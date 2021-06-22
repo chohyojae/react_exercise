@@ -16,3 +16,6 @@
 [submodule "router-tutorial"]
 	path = router-tutorial
 	url = git@github.com:chohyojae/router-tutorial.git
+[submodule "news-viewer"]
+	path = news-viewer
+	url = git@github.com:chohyojae/news-viewer.git
