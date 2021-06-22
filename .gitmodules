@@ -10,3 +10,6 @@
 [submodule "todo-app"]
 	path = todo-app
 	url = git@github.com:chohyojae/todo-app.git
+[submodule "immer-tutorial"]
+	path = immer-tutorial
+	url = git@github.com:chohyojae/immer-tutorial.git
