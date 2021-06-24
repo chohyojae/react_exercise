@@ -19,3 +19,6 @@
 [submodule "news-viewer"]
 	path = news-viewer
 	url = git@github.com:chohyojae/news-viewer.git
+[submodule "context-tutorial"]
+	path = context-tutorial
+	url = git@github.com:chohyojae/context-tutorial.git
