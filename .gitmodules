@@ -25,3 +25,7 @@
 [submodule "vanilla-redux"]
 	path = vanilla-redux
 	url = git@github.com:chohyojae/vanilla-redux.git
+[submodule "react-redux-tutorial"]
+	path = react-redux-tutorial
+	url = git@github.com:chohyojae/react-redux-tutorial.git
+
