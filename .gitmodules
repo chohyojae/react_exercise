@@ -28,4 +28,7 @@
 [submodule "react-redux-tutorial"]
 	path = react-redux-tutorial
 	url = git@github.com:chohyojae/react-redux-tutorial.git
+[submodule "learn-redux-middleware"]
+	path = learn-redux-middleware
+	url = git@github.com:chohyojae/learn-redux-middleware
 
